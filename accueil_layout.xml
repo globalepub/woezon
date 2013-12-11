@@ -1,0 +1,16 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="209" measuredH="371" mockupW="150" mockupH="213">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Accordion" x="59" y="158" w="-1" h="-1" measuredW="150" measuredH="213" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2C%2C%2C%2C%2C%2C</hrefs>
+        <text>Woezon%0ARestaurants%0A-%20Sub-Item%202.1%0A-%20Sub-Item%202.2%0AH%F4tels%0APharmacies%0AH%F4pitaux%20et%20Cliniques</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Map" x="71" y="194" w="127" h="62" measuredW="252" measuredH="222" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <markup>true</markup>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
